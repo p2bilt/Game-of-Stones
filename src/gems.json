@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/img/codegem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/img/crankygem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/img/cutiegem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/img/draggem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/img/funkygem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/img/metalgem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/img/mindgem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/img/powergem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/img/realitygem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/img/soulgem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/img/spacegem.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/img/timegem.jpg",
+    "clicked": false
+  }
+]
