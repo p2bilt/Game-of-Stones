@@ -5,6 +5,8 @@ A Demo React Clickity-Click Game
 
 In this project, I create a simple memory game with React. The goal was to break up the application's UI into components, manage component state, and respond to user events.
 
+Try out this thrilling game for yourself at [https://game-of-stones.herokuapp.com/](https://game-of-stones.herokuapp.com/)
+
 ### Instructions
 
 1. The application renders a dozen different Infinity Gem images to the screen. 
